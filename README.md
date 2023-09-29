@@ -2,7 +2,7 @@
 
 ### Description
 
-Does just as it says. Track your daily expenses with ease using this expense tracker app. This repository contains backend code for the mern-expense-tracker app. You can checkout the frontend code in [this repo](https://github.com/01-DC/mern-expense-tracker-client)
+Does just as it says. Track your daily expenses with ease using this expense tracker app. This repository contains backend code for the mern-expense-tracker app. You can checkout the frontend code in [this repo](https://github.com/parthmehendru/mern-expense-tracker-client)
 
 ### How to use?
 
